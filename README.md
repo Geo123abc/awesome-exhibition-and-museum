@@ -14,7 +14,6 @@ some online and offline exhibition and museum
 
 [ポケモン化石博物館 Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - 由日本的一家公司 [Advalay](https://advalay.jp/) 制作的在线博物馆
 
-![image](assets/image-20220725150357-jwcrjds.png)
 
 
 ### BORJOMI - the deepest site in the world
@@ -78,7 +77,6 @@ Museo 和一些免费图库搜索引擎类似，但更侧重于艺术典藏，�
 
 访问 [https://museo.app](https://museo.app)
 
-![image1](assets/image1-3-20211208182555-vnmgfry.png)
 
 *来自 \<[https://mp.weixin.qq.com/s/m83_qeGtiHxq57IqLuiqIg](https://mp.weixin.qq.com/s/m83_qeGtiHxq57IqLuiqIg)\>*
 
