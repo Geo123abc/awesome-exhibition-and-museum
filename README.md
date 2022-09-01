@@ -62,8 +62,10 @@ From [MUSEUM ONLINE TOURS - EMC2020](https://emc2020.ptmin.eu/museum-online-tour
 
 # 非地质类
 
+### 陕西考古博物馆
 
-## 
+[陕西考古博物馆](https://720yun.com/vr/3e22dasfmlw)，云上参观，720全景，非常棒
+
 
 ### 一个艺术藏品可视化搜索引擎，无版税限制用户可免费下载
 
